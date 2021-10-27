@@ -21,8 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
-  <a href="https://www.linkedin.com/in/prakash-ranzan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139011601-062bc556-0fb9-4afa-94ea-d41610bcd926.png"
+  <a href="https://www.linkedin.com/in/prakash-ranzan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
 alt="https://www.linkedin.com/in/prakash-ranzan/" height="30" width="40" /></a>
+  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
