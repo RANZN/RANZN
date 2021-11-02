@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RANZN&label=Profile%20views&color=0e75b6&style=flat" alt="RANZN" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=RANZN" /> </p>
+<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=RANZN" /> </p> -->
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=RANZN&data=followers,repositories,stars,commits"></p>
 
 - 🔭 I’m currently working on [something secret](https://github.com/RANZN)
 
@@ -30,17 +31,10 @@ alt="https://www.linkedin.com/in/prakash-ranzan/" height="30" width="40" /></a>
  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RANZN&" alt="RANZN" /></p>
-<!--
-**RANZN/RANZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 😴 The Boring Stuff
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=RANZN&theme=material-palenight"></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img src="https://github-readme-stats.vercel.app/api?username=RANZN&show_icons=true&theme=tokyonight" /></p>
+
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANZN&layout=compact&theme=blueberry" /></p>
