@@ -35,6 +35,7 @@ alt="https://www.linkedin.com/in/prakash-ranzan/" height="30" width="40" /></a>
 ## 😴 The Boring Stuff
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=RANZN&theme=material-palenight"></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=RANZN&show_icons=true&theme=tokyonight" /></p>
-
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANZN&layout=compact&theme=blueberry" /></p>
+<div style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=RANZN&show_icons=true&theme=tokyonight" />        
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANZN&layout=compact&theme=blueberry" />
+</div>
