@@ -42,8 +42,8 @@ alt="https://www.linkedin.com/in/prakash-ranzan/" height="30" width="40" /></a>
   ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ranzn/github-readme-stats"><img style="width:57%" alt="Prakah Ranjan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranzn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ranzn/github-readme-stats"><img style="width:42%" alt="Prakash Ranjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranzn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img style="width:57%" alt="Prakah Ranjan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranzn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href=""><img style="width:42%" alt="Prakash Ranjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranzn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
@@ -52,12 +52,12 @@ alt="https://www.linkedin.com/in/prakash-ranzan/" height="30" width="40" /></a>
 
 
 <div align="center">
-<img style="width:80%" alt="Rohit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ranzn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img style="width:80%" alt="Prakash Ranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ranzn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </div>
   
   
   
-<a href="https://github.com/ranzn/github-readme-activity-graph"><img alt="Prakash Ranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ranzn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href=""><img alt="Prakash Ranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ranzn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
