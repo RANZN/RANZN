@@ -65,8 +65,7 @@ alt="https://www.linkedin.com/in/prakash-ranzan/" height="30" width="40" /></a>
   
   
   
-<!--  
-  
+<!--   
 ## 😴 The Boring Stuff
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=RANZN&theme=material-palenight"></p>
 
