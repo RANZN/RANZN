@@ -1,76 +1,63 @@
-<h1 align="center">Hi 👋 Friends I'm Prakash Ranjan</h1>
+# 👋 Hi, I'm Prakash Ranjan (RANZN)
 
+🚀 **Android & Kotlin Multiplatform Developer** with 3+ years of experience building modern, scalable apps across Android, Desktop, and Web.  
+💼 Based in India • Open to **Remote Roles (US/UK/Global)** • Passionate about clean architecture and developer experience.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RANZN&label=Profile%20views&color=0e75b6&style=flat" alt="RANZN" /> </p>
+---
 
-<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=RANZN" /> </p> -->
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=RANZN&data=followers,repositories,stars,commits"></p>
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on [something secret](https://github.com/RANZN)
+### 🎯 Core Expertise
+- **Languages:** Kotlin, Java  
+- **Frameworks:** Jetpack Compose, Compose Multiplatform (CMP), Kotlin Multiplatform (KMP)  
+- **Backend:** Ktor, Koin, Exposed, PostgreSQL  
+- **Architecture:** MVVM, Clean Architecture, MVI, Repository Pattern  
+- **Async:** Coroutines, Flow  
+- **Dependency Injection:** Hilt / Koin  
 
-- 🌱 I’m currently learning **Android**
+### ☁️ DevOps / Tools
+- Firebase, AWS (EC2, S3), Docker (for Ktor services)  
+- GitHub Actions, Postman, SQLDelight, Room, Retrofit  
+- Android Studio, IntelliJ IDEA, VS Code  
 
-- 👨‍💻 All of my projects are available at [https://github.com/RANZN](https://github.com/RANZN)
+---
 
-- 💬 Ask me about **Everything that is legal**
+## 🏗️ Featured Projects
 
-- ⚡ Fun fact **Don't sit there, EVOLVE**
+| Project | Description | Stack |
+|----------|--------------|-------|
+| [**SmartCents (Compose Multiplatform)**](https://github.com/RANZN/SmartCents) | 💰 Personal finance & budgeting app built with **Compose Multiplatform**, supporting Android, Desktop, and Web. Integrates with Ktor backend for sync and analytics. | Compose Multiplatform • KMP • SQLDelight • Ktor Client • MVI |
+| [**SmartCentsServer (Ktor Backend)**](https://github.com/RANZN/SmartCentsServer) | ⚙️ RESTful backend powering SmartCents. Handles authentication, analytics, and real-time sync using Ktor and PostgreSQL. | Ktor • Exposed ORM • Koin • JWT Auth • Docker |
+| [**MoneyManagerClone-Kotlin**](https://github.com/RANZN/MoneyManagerClone-Kotlin) | 💵 Expense tracker with beautiful Compose UI, charts, and offline persistence. | Jetpack Compose • Room • Hilt • Coroutines |
+| [**Kutuki_Project**](https://github.com/RANZN/Kutuki_Project) | 📚 Educational media player for kids with **Text-to-Speech** and media session controls. | Compose • Media3 • TTS • Hilt |
+| [**NEWS_mock-3**](https://github.com/RANZN/NEWS_mock-3) | 📰 News app with bookmarking, pagination, and offline caching. | Jetpack Compose • Ktor • SQLDelight |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">  
-  <a href="https://www.linkedin.com/in/prakash-ranzan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
-alt="https://www.linkedin.com/in/prakash-ranzan/" height="30" width="40" /></a>
-  
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="Intelli J" width="40" height="40"/> </a>
-   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" width="40" height="40"/> </a> 
- 
+> 🧩 Explore all projects → [github.com/RANZN?tab=repositories](https://github.com/RANZN?tab=repositories)
 
+---
 
+## 🧠 Currently Exploring
+- 🚀 Advanced **Kotlin Multiplatform** architecture (shared ViewModels, DI, caching)  
+- 🌍 Deploying **Ktor services** on cloud infrastructure (AWS / Render / Railway)  
+- 💡 Experimenting with **AI-assisted features** for mobile and desktop apps  
+- 🧩 Building libraries for **Compose Multiplatform reuse**  
 
+---
 
+## 📊 Stats & Highlights
 
-  ## 📊 My Github Stats
+![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=RANZN&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RANZN&layout=compact&theme=tokyonight)
 
-  <br/>
-    <a href=""><img style="width:57%" alt="Prakah Ranjan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranzn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href=""><img style="width:42%" alt="Prakash Ranjan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranzn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+---
 
-<br/>
-<br/>
+## 💬 Let’s Connect
 
+- 🌐 **Portfolio:** [prakash-ranjan.dorik.io](https://prakash-ranjan.dorik.io/)  
+- 💼 **LinkedIn:** [linkedin.com/in/prakash-ranzan](https://www.linkedin.com/in/prakash-ranzan/)  
+- ✉️ **Email:** [aryaprakashranjan@gmail.com](mailto:aryaprakashranjan@gmail.com)  
+- 💬 “Open to collaborating on Kotlin Multiplatform, Compose, and backend projects.”
 
+---
 
-<div align="center">
-<img style="width:80%" alt="Prakash Ranjan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ranzn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </div>
-  
-  
-  
-<a href=""><img alt="Prakash Ranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ranzn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
-
-  
-  
-  
-<!--   
-## 😴 The Boring Stuff
-<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=RANZN&theme=material-palenight"></p>
-
-<div style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=RANZN&show_icons=true&theme=tokyonight" />        
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANZN&layout=compact&theme=blueberry" />
-</div>
---!>
+⚡ *"Don’t sit there — evolve."*  
