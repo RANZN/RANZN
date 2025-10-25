@@ -15,10 +15,18 @@
 - **Async:** Coroutines, Flow  
 - **Dependency Injection:** Hilt / Koin  
 
-### ☁️ DevOps / Tools
-- Firebase, AWS (EC2, S3), Docker (for Ktor services)  
-- GitHub Actions, Postman, SQLDelight, Room, Retrofit  
+### ☁️ DevOps / Cloud
+- Firebase (Auth, Firestore) – basic working knowledge  
+- AWS (EC2, S3) – basic working knowledge  
+- Docker (for Ktor services) – basic working knowledge  
+- GitHub Actions (CI/CD pipelines)
+
+### 🛠️ Development Tools
 - Android Studio, IntelliJ IDEA, VS Code  
+- Postman, Git / GitHub, BitBucket  
+- SQLDelight, Room, Retrofit  
+- JetBrains Playground / Kotlin Playground
+- Chrome DevTools, Emulator / Simulator for Android & Desktop testing
 
 ---
 
