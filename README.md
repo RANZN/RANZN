@@ -54,7 +54,7 @@
 
 ## 💬 Let’s Connect
 
-- 🌐 **Portfolio:** [prakash-ranjan.dorik.io](https://prakash-ranjan.dorik.io/)  
+- 🌐 **Portfolio:** [prakash-ranjan](https://ranzn.github.io/)  
 - 💼 **LinkedIn:** [linkedin.com/in/prakash-ranzan](https://www.linkedin.com/in/prakash-ranzan/)  
 - ✉️ **Email:** [aryaprakashranjan@gmail.com](mailto:aryaprakashranjan@gmail.com)  
 - 💬 “Open to collaborating on Kotlin Multiplatform, Compose, and backend projects.”
